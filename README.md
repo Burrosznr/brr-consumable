@@ -1,4 +1,4 @@
-![Immagine](https://r2.fivemanage.com/U0ult3ptgFxO6kTpmb6mn/consumable.png)
+![Immagine](https://r2.fivemanage.com/U0ult3ptgFxO6kTpmb6mn/consumable.jpg)
 
 # brr-consumable
 
