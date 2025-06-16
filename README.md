@@ -19,6 +19,7 @@ Dependencies:
 - ox_lib
 
 Credits for the "2 hands + 1 prop" animation goes to: FRACTAL GAME STUDIO
+
 Available for free here: https://github.com/FRACTAL-GAME-STUDIOS/
 
 # Preview
