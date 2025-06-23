@@ -39,7 +39,7 @@ Config.AnimLattine = {
 Config.ItemCibo = {
     --- snack
     ['sandwich'] = {
-        ValoreNutrizionale = 500000,  --- esx_status thirst value
+        ValoreNutrizionale = 500000,  --- esx_status hunger value
         BisogniEssenziali = 10000,  --- brr-needs pipi value
         UnaMano = true,  --- if true -> Config.AnimUnaMano
         DueMani = false, --- if true ->  Config.AnimDueMani
